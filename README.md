@@ -13,7 +13,7 @@ Havoc's Task List Plugin for C++ Projects in CodeLite.
 
 ## Overview
 
-**havGSD** is a task list plugin designed for **C++** projects in **CodeLite**. It has been tested with **CodeLite 18.1.0**.
+**havGSD** is a task list plugin designed for **C++** projects in **CodeLite**. It has been tested with **CodeLite 18.1.0**.
 
 ## Installation
 
